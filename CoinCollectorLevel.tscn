@@ -18,3 +18,6 @@ texture = ExtResource("2_3p7hm")
 position = Vector2(0, 15)
 rotation = -0.00469795
 shape = SubResource("RectangleShape2D_vjn56")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(1.5, 1.5)
